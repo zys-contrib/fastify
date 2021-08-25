@@ -173,7 +173,7 @@
     "@fastify/ajv-compiler": "^2.1.0",
     "abstract-logging": "^2.0.0",
     "avvio": "fastify/avvio#next",
-    "fast-json-stringify": "^2.5.2",
+    "fast-json-stringify": "github:fastify/fast-json-stringify#ajv8",
     "fastify-error": "^0.3.0",
     "fastify-warning": "^0.2.0",
     "find-my-way": "^4.1.0",
